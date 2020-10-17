@@ -10,6 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pg0408/lorem-ipsum-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pg0408/lorem-ipsum-demo/issues"
+  },
+  "homepage": "https://github.com/pg0408/lorem-ipsum-demo#readme"
 }
