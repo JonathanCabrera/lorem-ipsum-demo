@@ -1,6 +1,8 @@
 const express = require("express")
 const app = express()
 
+var mysql = require('mysql');
+
 // use the express-static middleware
 app.use(express.static("public"))
 
